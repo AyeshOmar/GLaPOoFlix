@@ -13,8 +13,8 @@ p{
   margin: 0 auto;
   padding-left: 20px;
   display: flex;
-  overflow-x: auto; 
-  overflow: hidden;
+  overflow-x: scroll; 
+  overflow-y: hidden;
 
   }
   .trending{
